@@ -69,7 +69,6 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
     cd ChatDosenGenerator
     ```
 3.  **Buat file `.env`:**
-    Salin atau ubah nama file `.env.example` menjadi `.env`.
 4.  **Isi API Key Gemini:**
     Aplikasi ini memerlukan **API Key** dari Google Gemini untuk berfungsi.
     * Dapatkan API Key Anda dari [Google AI Studio](https://aistudio.google.com/app/apikey).
