@@ -1,0 +1,29 @@
+/* html {
+  height: 100vh;
+} */
+
+.chat_dosen_generator-wrapper {
+  height: 100%;
+  padding: 20px;
+  /* margin: 30px 0; */
+  background-color: #f8f8f8;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+.chat_dosen_generator-content {
+  height: calc(100% - 109px);
+  margin-top: 30px;
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  .chat_dosen_generator-wrapper {
+    height: auto;
+    border-radius: 0;
+  }
+
+  .chat_dosen_generator-content {
+    overflow-y: inherit;
+  }
+}
