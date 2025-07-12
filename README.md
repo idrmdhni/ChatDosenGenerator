@@ -53,7 +53,7 @@ Proyek ini menggunakan struktur yang menyerupai arsitektur MVC (Model-View-Contr
 │   │   └── style.css
 │   └── js/
 │       └── script.js
-├── .env.example
+├── .env
 ├── .gitignore
 └── index.php
 ```
