@@ -66,7 +66,7 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
     ```
 2.  **Pindah ke direktori proyek:**
     ```bash
-    cd chatdosengenerator
+    cd ChatDosenGenerator
     ```
 3.  **Buat file `.env`:**
     Salin atau ubah nama file `.env.example` menjadi `.env`.
