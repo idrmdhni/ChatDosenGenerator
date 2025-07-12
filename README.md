@@ -6,7 +6,7 @@ Seringkali mahasiswa merasa bingung atau kesulitan saat akan menghubungi dosen m
 Pengguna cukup mengisi beberapa informasi dasar, dan aplikasi akan secara otomatis memberikan beberapa opsi pesan yang bisa langsung digunakan.
 
 ## Fitur
-* **Formulir Input yang Mudah Digunakan**: Pengguna hanya perlu memasukkan data seperti nama, NIM, program studi, dan tujuan menghubungi dosen.
+* **Form Input yang Mudah Digunakan**: Pengguna hanya perlu memasukkan data seperti nama, NIM, program studi, dan tujuan menghubungi dosen.
 * **Didukung oleh AI**: Menggunakan **Google Gemini API** untuk menghasilkan teks yang relevan dan sopan.
 * **Dua Konteks Utama**: Mendukung dua tujuan utama yang sering dibutuhkan mahasiswa:
     * **Bertanya**: Untuk mengajukan pertanyaan terkait perkuliahan atau hal akademis lainnya.
@@ -21,8 +21,8 @@ Pengguna cukup mengisi beberapa informasi dasar, dan aplikasi akan secara otomat
 * **API**: Google Generative Language API (**Gemini**)
 
 ## Cara Menggunakan
-1.  Buka aplikasi web di browser Anda.
-2.  Isi semua kolom yang ada di formulir.
+1.  Buka aplikasi web di browser.
+2.  Isi semua kolom input yang ada.
 3.  Klik tombol **"Hasilkan"**.
 4.  Tunggu sebentar, dan aplikasi akan menampilkan beberapa pilihan kalimat.
 5.  Salin kalimat yang paling sesuai dan kirimkan ke dosen Anda.
@@ -59,7 +59,7 @@ Proyek ini menggunakan struktur yang menyerupai arsitektur MVC (Model-View-Contr
 ```
 
 ## Instalasi
-Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah berikut:
+Untuk menjalankan proyek ini di environment lokal, ikuti langkah-langkah berikut:
 1.  **Clone repository ini:**
     ```bash
     git clone https://github.com/idrmdhni/ChatDosenGenerator.git
@@ -81,4 +81,4 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
     ```bash
     php -S localhost:8000
     ```
-6.  Buka `http://localhost:8000` di browser Anda.
+6.  Buka `http://localhost:8000` di browser.
